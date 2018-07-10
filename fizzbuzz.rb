@@ -13,4 +13,4 @@ end
   
 end
 
-fizzbuzz(3)
+puts fizzbuzz(3)
